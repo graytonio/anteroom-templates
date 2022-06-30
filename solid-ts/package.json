@@ -1,7 +1,7 @@
 {
   "name": "vite-template-solid",
   "version": "0.0.0",
-  "description": "",
+  "description": "Template for solidjs project",
   "scripts": {
     "start": "vite",
     "dev": "vite",
